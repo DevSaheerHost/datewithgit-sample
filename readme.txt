@@ -7,7 +7,7 @@ $ git status
 if red
 $ git add filename.txt
 or
-$ git add --all
+$ git add --all or git add .       (same)
 else if green
 $ git commit -m "some text that what you changed"
 
